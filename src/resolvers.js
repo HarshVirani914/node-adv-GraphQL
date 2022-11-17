@@ -1,7 +1,7 @@
 const { authenticated, authorized } = require("./auth");
 const { PubSub, AuthenticationError } = require("apollo-server");
-const NEW_POST = "NEW_POST";
 
+const NEW_POST = "NEW_POST";
 const pubsub = new PubSub();
 
 /**
