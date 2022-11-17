@@ -26,8 +26,45 @@
       "avatar": "http",
       "createdAt": 1668669107823,
       "id": "ljIHswnOfDcamXLjhY9q0"
+    },
+    {
+      "email": "hello@hello.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1668675820259,
+      "id": "hmCzlUJYyg7j0_AnKXujd"
+    },
+    {
+      "email": "hello@heloo.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1668676103837,
+      "id": "5s2BgyLWIagwpIv9htfr3"
     }
   ],
-  "posts": [],
+  "posts": [
+    {
+      "message": "hello there",
+      "author": "5s2BgyLWIagwpIv9htfr3",
+      "createdAt": 1668676181472,
+      "id": "Q0zsfGP_eGjEny200iuGD"
+    },
+    {
+      "message": "hello there",
+      "author": "5s2BgyLWIagwpIv9htfr3",
+      "createdAt": 1668676251201,
+      "id": "98UsmEB5G9EOjIKOyDj24"
+    },
+    {
+      "message": "one more",
+      "author": "5s2BgyLWIagwpIv9htfr3",
+      "createdAt": 1668676269970,
+      "id": "LmxWCe_y5krr2DERllBje"
+    }
+  ],
   "settings": []
 }
